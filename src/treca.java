@@ -8,6 +8,7 @@ public class treca {
 		
 		System.out.println("ola");
 		System.out.println("dobro ba");
+		System.out.println("sta ima");
 	}
 
 }
